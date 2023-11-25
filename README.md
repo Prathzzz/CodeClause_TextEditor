@@ -1,3 +1,4 @@
 # CodeClause_TextEditor
 
-![Screenshot (72)](https://github.com/Prathzzz/CodeClause_TextEditor/assets/109454557/ab9feade-d4ed-49d5-91e6-9d8b9c1eeba1)
+![Screenshot (73)](https://github.com/Prathzzz/CodeClause_TextEditor/assets/109454557/f45fa3d8-7619-484e-9d83-ee777e688967)
+
